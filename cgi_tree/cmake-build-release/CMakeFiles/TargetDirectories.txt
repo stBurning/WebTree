@@ -1,0 +1,3 @@
+C:/Users/KSUstinov/CLionProjects/WebApp/WebApp/cgi_tree/cmake-build-release/CMakeFiles/cgi_tree.dir
+C:/Users/KSUstinov/CLionProjects/WebApp/WebApp/cgi_tree/cmake-build-release/CMakeFiles/edit_cache.dir
+C:/Users/KSUstinov/CLionProjects/WebApp/WebApp/cgi_tree/cmake-build-release/CMakeFiles/rebuild_cache.dir
